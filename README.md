@@ -1,5 +1,5 @@
-# Integrations challenge
-Medcloud challenge for the integrations analyst vacancy.
+# Development challenge
+Medcloud's challenge for the general development internship vacancy.
 
 ## Problem
 We need a simple Java program that saves a collection of patients in a database (MySQL, PostgreSQL, etc) and right after, perform a select on these data and save the results on a text file.
